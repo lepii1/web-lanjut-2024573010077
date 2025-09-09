@@ -57,7 +57,7 @@ laravelnya dilocal.
 
 ## 4. Diagram MVC dan Cara kerjanya
 
-> ![Bunga](gambar/1fa91d28b553d474ff35cf7c81fc6594.jpg)
+> ![Bungaa](gambar/1fa91d28b553d474ff35cf7c81fc6594.jpg)
 
 ---
 
