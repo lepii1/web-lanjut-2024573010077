@@ -30,8 +30,8 @@
     @include('partials.navigation')
 
     <div class="container mt-4">
-        @if(isset($allertMessage) && !empty($allertMessage))
-            @include('partials.alert', ['message' => $allertMessage, 'type' => 'info'])
+        @if(isset($alertMessage) && !empty($alertMessage))
+            @include('partials.alert', ['message' => $alertMessage, 'type' => 'info'])
         @endif
 
         @yield('content')
@@ -53,3 +53,4 @@
     </script>
 </body>
 </html>
+~~~

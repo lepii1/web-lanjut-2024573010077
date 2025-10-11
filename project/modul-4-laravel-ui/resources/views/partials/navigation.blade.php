@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg {{ $theme === 'dark' ? 'navbar-dark bg-dark' : 'navbar-light bg-light' }} fixed-top shadow">
     <div class="container">
-        <a href="{{ route('home') }}">
+        <a class="navbar-brand fw-bold" href="{{ route('home') }}">
             Laravel UI Demo
         </a>
 
