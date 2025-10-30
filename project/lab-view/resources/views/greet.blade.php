@@ -4,6 +4,6 @@
     <title>Greet</title>
 </head>
 <body>
-<h1>Nice to meet you, {{ $name }}!</h1>
+    <h1>Nice to meet you, {{ $name }}!</h1>
 </body>
 </html>

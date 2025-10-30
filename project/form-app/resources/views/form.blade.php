@@ -54,7 +54,7 @@
         </div>
         <div class="form-check mb-3">
             <input type="checkbox" id="confirm" name="confirm" class="form-check-input">
-            <label for="confirm" class="form-check-label">Sata Konfirmasi informasi sudah benar</label>
+            <label for="confirm" class="form-check-label">Saya konfirmasi informasi sudah benar</label>
             @error('confirm') <div class="text-danger">{{ $message }}</div> @enderror
         </div>
         <button type="submit" class="btn btn-primary" id="submitBtn" disabled>Submit</button>
