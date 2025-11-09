@@ -14,7 +14,7 @@
                     <input name="name" class="form-control" required>
                 </div>
                 <div class="mb-3">
-                    <label class="form-label"></label>
+                    <label class="form-label">Price</label>
                     <input name="price" class="form-control" type="number" step="0.01" required>
                 </div>
                 <div class="mb-3">

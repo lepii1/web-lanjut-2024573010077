@@ -52,7 +52,7 @@ Tuliskan langkah-langkah yang sudah dilakukan, sertakan potongan kode dan screen
 ![WhatsApp Image 2025-09-16 at 17.46.15_1a3162de.jpg](gambar/WhatsApp%20Image%202025-09-16%20at%2017.46.15_1a3162de.jpg)
 - Membuat view mywelcome.blade.php.
 ![WhatsApp Image 2025-09-16 at 17.50.13_b02cb6a2.jpg](gambar/WhatsApp%20Image%202025-09-16%20at%2017.50.13_b02cb6a2.jpg)
-- Menjalankan aplikasi dan Menunjukkan hasil dibrowser.
+- Menjalankan aplikasi dan Menunjukkan hasil dibrowser
 ![WhatsApp Image 2025-09-16 at 17.53.09_5920aead.jpg](gambar/WhatsApp%20Image%202025-09-16%20at%2017.53.09_5920aead.jpg)
 
 2.2 Praktikum 2 – Membuat Aplikasi Sederhana "Calculator"

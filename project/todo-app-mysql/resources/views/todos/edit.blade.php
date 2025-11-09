@@ -15,5 +15,4 @@
         <button type="submit" class="btn btn-warning">Update Task</button>
         <a href="{{ route('todos.index') }}" class="btn btn-secondary">Kembali ke Daftar</a>
     </form>
-
 @endsection
