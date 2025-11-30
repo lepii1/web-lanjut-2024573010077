@@ -58,7 +58,7 @@ Tuliskan langkah-langkah yang sudah dilakukan, sertakan potongan kode dan screen
 2.2 Praktikum 2 – Membatasi Akses Berdasarkan Peran di Laravel 12
 - Menginstall Laravel Breeze <br>
   ![img_6.png](gambar/img_6.png)
-    - Kemudian jalankan perintah "php artisan breeze:install" untuk menginstall Brezee, selama proses instalasi, kita akan
+    - Kemudian jalan kan perintah "php artisan breeze:install" untuk menginstall Brezee, selama proses instalasi, kita akan
       diminta  beberapa opsi:
         - Pilih frontend framework: Pilih blade
         - Dark mode: Pilih yes (opsional)

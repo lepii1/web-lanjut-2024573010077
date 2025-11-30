@@ -1,4 +1,4 @@
-# Laporan Modul 6: Model dan Laravel Eloquent
+  # Laporan Modul 6: Model dan Laravel Eloquent
 **Mata Kuliah:** Workshop Web Lanjut   
 **Nama:** Ahmad Aulia Fahlevi  
 **NIM:** 2024573010077

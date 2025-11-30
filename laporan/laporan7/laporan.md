@@ -104,7 +104,7 @@ Tuliskan langkah-langkah yang sudah dilakukan, sertakan potongan kode dan screen
   - Membuat Factory untuk Model Product. <br>
     ![img_29.png](gambar/img_29.png)
     ![img_30.png](gambar/img_30.png)
-  - Memodifikasi file database/seeders/DatabaseSeeder.php, lalu menjalankan perintah "php artisan db:seed"
+  - Memodifikasi file database/seeders/DatabaseSeeder.php, lalu menjalankan perintah "php artisan db:seed" <br>
     ![img_31.png](gambar/img_31.png)
 - Membuat Controller ProductController. <br>
   ![img_32.png](gambar/img_32.png)
