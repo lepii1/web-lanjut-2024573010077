@@ -1,4 +1,4 @@
-# Laporan Modul 8: Authentication & Authorization
+# Laporan Modul 10: Autentikasi dan Otorisasi dengan JWT (JSON Web Token) di Laravel 12
 **Mata Kuliah:** Workshop Web Lanjut   
 **Nama:** Ahmad Aulia Fahlevi  
 **NIM:** 2024573010077

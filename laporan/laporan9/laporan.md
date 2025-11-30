@@ -1,4 +1,4 @@
-# Laporan Modul 8: Authentication & Authorization
+# Laporan Modul 9: RESTful API Menggunakan Laravel 12
 **Mata Kuliah:** Workshop Web Lanjut   
 **Nama:** Ahmad Aulia Fahlevi  
 **NIM:** 2024573010077
